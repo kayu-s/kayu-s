@@ -6,7 +6,7 @@
 
 - Systems integrator on weekdays, freelance developer on weekends.
 - AWS Dev Expert (Python / TypeScript), Solution Architect Professional.
-- Google Dev Expert(Python / BigQuery).
+- Google Dev Expert(Python / BigQuery), Professional Cloud Architect.
 - I ❤️ Sakurazaka46 ◢￨⁴⁶
 
 ### Skils
